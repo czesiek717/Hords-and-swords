@@ -1,0 +1,10 @@
+#Fri Nov 03 17:00:41 CET 2017
+renamed.2=classes2.dex
+renamed.1=classes3.dex
+renamed.0=classes.dex
+base.2=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_44bf2f2664f642c8a9404105974e7cd4e25bb01d
+base.1=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_e4fe2a81de723e22e52343af22a33588bdacd31e
+base.0=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_3b0b3bb883cfacfc04efe482d7fffebb59144340
+file.2=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-backend-android-1.9.6_44bf2f2664f642c8a9404105974e7cd4e25bb01d\\classes.dex
+file.1=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-box2d-1.9.6_e4fe2a81de723e22e52343af22a33588bdacd31e\\classes.dex
+file.0=E\:\\Projekty_Android\\Dragon\\android\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\gdx-1.9.6_3b0b3bb883cfacfc04efe482d7fffebb59144340\\classes.dex
