@@ -10,12 +10,12 @@ I wanted to create like a schema of the game and then clean the code and make it
 
 Here are some screenshots:
 
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example2.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example3.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example4.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example5.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example6.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example7.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example8.png)
-![alt text](https://raw.githubusercontent.com/czesiek717/My-android-game/master/images/example9.png)
+![Starting point](./images/example.png)
+![Menu expanded](./images/example2.png)
+![Castle view](./images/example3.png)
+![Building graveyard](./images/example4.png)
+![Recruiting skeletons](./images/example5.png)
+![Castle view with units](./images/example6.png)
+![Buildings view](./images/example7.png)
+![Recruiting upgraded skeletons](./images/example8.png)
+![Hero view](./images/example9.png)
